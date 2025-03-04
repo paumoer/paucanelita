@@ -4,7 +4,7 @@
 ## ☁ I am looking into the environmental impacts of Direct Air Carbon Capture and Storage. 
 
 <!--
-**paucanelita/paucanelita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**paumoer/paumoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
