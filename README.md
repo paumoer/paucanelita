@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🔭 I’m currently working on my master thesis in Industrial Ecology.
-## 🌱 I’m currently learning how to use Brightway with premise. 
+## 🌱 I’m currently learning how to use Brightway2 and 2.5 with premise. 
 ## ☁ I am looking into the environmental impacts of Direct Air Carbon Capture and Storage. 
 
 <!--
